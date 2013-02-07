@@ -1,5 +1,8 @@
 # set your user tokens as enivornment variables, such as ~/.secrets
 # See the README for examples.
+[user]
+  name = Nils Eckelt
+  email = neckelt@thughtworks.com
 [color]
   ui = true
 [color "branch"]
@@ -33,6 +36,10 @@
   # cherry-pick
   cp = cherry-pick -x               # grab a change from a branch
 
+  # log
+  l5 = log -n 5
+  l10 = log -n 10
+  
   # diff
   d = diff                          # diff unstaged changes
   dc = diff --cached                # diff staged changes
