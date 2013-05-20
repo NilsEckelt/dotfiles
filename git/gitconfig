@@ -2,7 +2,7 @@
 # See the README for examples.
 [user]
   name = Nils Eckelt
-  email = neckelt@thughtworks.com
+  email = neckelt@thoughtworks.com
 [color]
   ui = true
 [color "branch"]
@@ -122,3 +122,7 @@
   # Remember my merges
   # http://gitfu.wordpress.com/2008/04/20/git-rerere-rereremember-what-you-did-last-time/
   enabled = true
+[github]
+	user = NilsEckelt
+[ghi]
+	token = 1586522d207c1a130e6bd607aba4b6f6a261a57e

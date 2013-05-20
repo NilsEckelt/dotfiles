@@ -155,3 +155,5 @@ alias spb="git checkout -b \`sp | tail -2 | grep '#' | sed 's/^ //' | sed 's/[^A
 # alias for often used directories
 alias p='cd ~/Documents/workspaces/'
 alias t='~/.yadr/todo/todo.sh'
+
+alias subl='subl -n'
